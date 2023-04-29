@@ -1,12 +1,11 @@
 button{
-  background-color: black;
-  width: 10rem;
   outline: none;
-  padding: 1rem 1rem 1rem 1rem;
-  border-radius: 10px;
+  /* padding: 1rem 1rem 1rem 1rem; */
+  /* border-radius: 10px; */
   border: 1px solid white;
   margin-bottom: 2rem;
   margin-top: 2rem;
+  margin-left: 1%;
   
 }
 .btn{
@@ -14,4 +13,7 @@ button{
 }
 body{
     text-align: center;
+}
+.formDiv{
+  
 }
